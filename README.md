@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-<img src="![akashi-akashi-seijuro](https://github.com/user-attachments/assets/4c07b843-7535-44b9-a412-a91af2375a95)"/>
+<img src="https://tenor.com/ru/view/akashi-akashi-seijuro-gif-24222958"/>
   
 </div>
 
