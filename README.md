@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-<img src="https://gifs.ru/gifs/17038/>
+<img src="https://gifs.ru/gifs/17038"/>
   
 </div>
 
